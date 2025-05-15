@@ -68,3 +68,17 @@
 
 ## 👨‍💻 Autor
 - `Base desenvolvida por K4BOTELHO`
+
+---
+
+## 📜 Licença
+
+Este repositório está sob a licença MIT, permitindo uso livre pessoal ou comercial.
+
+---
+
+## ⭐ Contribua
+
+Se este projeto foi útil para você, deixe uma ⭐ estrela no repositório. Isso ajuda a fortalecer a comunidade e o alcance do projeto.
+
+---
